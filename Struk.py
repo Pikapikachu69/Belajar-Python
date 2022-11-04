@@ -5,7 +5,7 @@ waktu = datetime.datetime.now().strftime("%X")
 tanggal = datetime.datetime.now().strftime("%x")
 
 
-namakasir = input("Masukan nama kasir : ")
+namakasir = "VIRDA"
 # Tampilan awal
 print(f"""
 PT INDOMARCO PRISMATAMA      |===============|
